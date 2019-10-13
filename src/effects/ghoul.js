@@ -4,13 +4,13 @@ const noColor = parseColor('white', { brightness: 0, kelvin })
 const frame = parseColors(require('../frames/ghoul'), { saturation: 0, kelvin })
 
 module.exports = class {
-  
-  static async create({ device, tiles }) {
-    return await (new this({ device, tiles })).boot()
-  }
 
   static getFlushColor() {
     return noColor
+  }
+
+  static async create({ device, tiles }) {
+    return await (new this({ device, tiles })).boot()
   }
 
   constructor({ device, tiles }) {

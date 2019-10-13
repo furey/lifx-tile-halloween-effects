@@ -9,13 +9,13 @@ const frames = {
 }
 
 module.exports = class {
-  
-  static async create({ device, tiles }) {
-    return await (new this({ device, tiles })).boot()
-  }
 
   static getFlushColor() {
     return noColor
+  }
+
+  static async create({ device, tiles }) {
+    return await (new this({ device, tiles })).boot()
   }
 
   constructor({ device, tiles }) {

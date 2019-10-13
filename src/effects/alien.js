@@ -3,13 +3,13 @@ const noColor = parseColor('green', { saturation: 0, brightness: 0 })
 const frame = parseColors(require('../frames/alien'))
 
 module.exports = class {
-  
-  static async create({ device, tiles }) {
-    return await (new this({ device, tiles })).boot()
-  }
 
   static getFlushColor() {
     return noColor
+  }
+
+  static async create({ device, tiles }) {
+    return await (new this({ device, tiles })).boot()
   }
 
   constructor({ device, tiles }) {

@@ -3,13 +3,13 @@ const noColor = parseColor('white', { saturation: 1, brightness: 0, kelvin: 1500
 const frame = parseColors(require('../frames/scream'), { saturation: 0, kelvin: 7000 })
 
 module.exports = class {
-  
-  static async create({ device, tiles }) {
-    return await (new this({ device, tiles })).boot()
-  }
 
   static getFlushColor() {
     return noColor
+  }
+
+  static async create({ device, tiles }) {
+    return await (new this({ device, tiles })).boot()
   }
 
   constructor({ device, tiles }) {
