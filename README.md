@@ -73,7 +73,7 @@ Credits:
 
 ### Alien
 
-[![Alien](./assets/readme/alien.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=2s)
+[![Alien](./assets/readme/alien.gif)](https://www.youtube.com/watch?g7TShjbeDuw&t=2s)
 
 ```console
 $ node lifx-tile-halloween-effects -e alien
@@ -83,7 +83,7 @@ $ node lifx-tile-halloween-effects -e alien
 
 ### Blood
 
-[![Blood](./assets/readme/blood.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=25s)
+[![Blood](./assets/readme/blood.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=25s)
 
 ```console
 $ node lifx-tile-halloween-effects -e blood
@@ -93,7 +93,7 @@ $ node lifx-tile-halloween-effects -e blood
 
 ### Eyes
 
-[![Eyes](./assets/readme/eyes.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=47s)
+[![Eyes](./assets/readme/eyes.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=47s)
 
 ```console
 $ node lifx-tile-halloween-effects -e eyes
@@ -103,7 +103,7 @@ $ node lifx-tile-halloween-effects -e eyes
 
 ### Ghoul
 
-[![Ghoul](./assets/readme/ghoul.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=68s)
+[![Ghoul](./assets/readme/ghoul.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=68s)
 
 ```console
 $ node lifx-tile-halloween-effects -e ghoul
@@ -113,7 +113,7 @@ $ node lifx-tile-halloween-effects -e ghoul
 
 ### Nun
 
-[![Nun](./assets/readme/nun.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=91s)
+[![Nun](./assets/readme/nun.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=91s)
 
 ```console
 $ node lifx-tile-halloween-effects -e nun
@@ -123,7 +123,7 @@ $ node lifx-tile-halloween-effects -e nun
 
 ### Psycho
 
-[![Psycho](./assets/readme/psycho.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=113s)
+[![Psycho](./assets/readme/psycho.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=113s)
 
 ```console
 $ node lifx-tile-halloween-effects -e psycho
@@ -133,7 +133,7 @@ $ node lifx-tile-halloween-effects -e psycho
 
 ### Pumpkin
 
-[![Pumpkin](./assets/readme/pumpkin.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=135s)
+[![Pumpkin](./assets/readme/pumpkin.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=135s)
 
 ```console
 $ node lifx-tile-halloween-effects -e pumpkin
@@ -143,7 +143,7 @@ $ node lifx-tile-halloween-effects -e pumpkin
 
 ### Scream
 
-[![Scream](./assets/readme/scream.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=157s)
+[![Scream](./assets/readme/scream.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=157s)
 
 ```console
 $ node lifx-tile-halloween-effects -e scream
@@ -153,7 +153,7 @@ $ node lifx-tile-halloween-effects -e scream
 
 ### Shining
 
-[![Shining](./assets/readme/shining.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=179s)
+[![Shining](./assets/readme/shining.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=179s)
 
 ```console
 $ node lifx-tile-halloween-effects -e shining
@@ -163,7 +163,7 @@ $ node lifx-tile-halloween-effects -e shining
 
 ### Slime
 
-[![Slime](./assets/readme/slime.gif)](https://www.youtube.com/watch?v=_KHD1uEbiLo&t=201s)
+[![Slime](./assets/readme/slime.gif)](https://www.youtube.com/watch?v=g7TShjbeDuw&t=201s)
 
 ```console
 $ node lifx-tile-halloween-effects -e slime
@@ -173,7 +173,7 @@ $ node lifx-tile-halloween-effects -e slime
 
 ## Preview
 
-[![Video](./assets/readme/video.png)](https://www.youtube.com/watch?v=_KHD1uEbiLo)
+[![Video](./assets/readme/video.png)](https://www.youtube.com/watch?v=g7TShjbeDuw)
 
 ## Credits
 
