@@ -1,6 +1,6 @@
 {
   "name": "lifx-tile-halloween-effects",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A collection of Halloween inspired LIFX Tile effects.",
   "main": "./lifx-tile-halloween-effects.js",
   "keywords": [
@@ -18,7 +18,7 @@
   "url": "https://github.com/furey",
   "license": "ISC",
   "dependencies": {
-    "lifx-tile-effects-framework": "github:furey/lifx-tile-effects-framework#semver:^1.0.0",
+    "lifx-tile-effects-framework": "github:furey/lifx-tile-effects-framework#semver:^v1",
     "lodash.samplesize": "^4.2.0"
   }
 }
