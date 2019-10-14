@@ -35,6 +35,7 @@ $ node lifx-tile-halloween-effects
 ❯ blood
   eyes
   ghoul
+  lightning
   nun
   psycho
   pumpkin
@@ -55,8 +56,8 @@ Usage: node lifx-tile-halloween-effects [options]
 
 Options:
   --effect, -e   Effect name
-          [string] [choices: "alien", "blood", "eyes", "ghoul", "nun", "psycho",
-                                        "pumpkin", "scream", "shining", "slime"]
+       [string] [choices: "alien", "blood", "eyes", "ghoul", "lightning", "nun",
+                              "psycho", "pumpkin", "scream", "shining", "slime"]
   --clear, -c    Clear device cache                                    [boolean]
   --verbose, -v  Show debug logs                                       [boolean]
   --version, -V  Show version number                                   [boolean]
@@ -66,7 +67,7 @@ Examples:
   node lifx-tile-halloween-effects --effect alien
 
 Credits:
-  Copyright (c) 2019, James Furey (https://github.com/furey)
+  Copyright (c) James Furey (https://github.com/furey)
 ```
 
 ## Effects
@@ -110,6 +111,16 @@ $ node lifx-tile-halloween-effects -e ghoul
 ```
 
 ♫ Soundtrack Suggestion: [The Exorcist Theme](https://youtu.be/1hbQpjYtbps)
+
+### Lightning
+
+![Lightning](./assets/readme/lightning.gif)
+
+```console
+$ node lifx-tile-halloween-effects -e lightning
+```
+
+♫ Soundtrack Suggestion: [Lightning Ambience](https://youtu.be/2YpKlklYGE8)
 
 ### Nun
 
