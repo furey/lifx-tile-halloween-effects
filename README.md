@@ -69,13 +69,13 @@ $ node lifx-tile-halloween-effects --help
 Usage: node lifx-tile-halloween-effects [options]
 
 Options:
-  --effect, -e   Effect name
+  --effect, -e       Effect name
        [string] [choices: "alien", "blood", "eyes", "ghoul", "lightning", "nun",
                               "psycho", "pumpkin", "scream", "shining", "slime"]
-  --clear, -c    Clear device cache                                    [boolean]
-  --verbose, -v  Show debug logs                                       [boolean]
-  --version, -V  Show version number                                   [boolean]
-  --help, -h     Show help                                             [boolean]
+  --clear-cache, -c  Clear device cache                                [boolean]
+  --verbose, -v      Show debug logs                                   [boolean]
+  --version, -V      Show version number                               [boolean]
+  --help, -h         Show help                                         [boolean]
 
 Examples:
   node lifx-tile-halloween-effects --effect alien
