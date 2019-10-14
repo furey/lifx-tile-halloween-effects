@@ -1,6 +1,6 @@
 {
   "name": "lifx-tile-halloween-effects",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "A collection of Halloween inspired LIFX Tile effects.",
   "main": "./lifx-tile-halloween-effects.js",
   "keywords": [
