@@ -95,18 +95,24 @@ module.exports = class {
 
   renderCanvas() {
     const colors = Array(this.bounds.width * this.bounds.height).fill(noColor)
+    const hue = 210/360
     this.canvas.forEach((row, y) => {
       this.canvas[y].forEach((col, x) => {
         if (col !== '⚡️') return
         let index = (Math.round(y) * this.bounds.width) + x
         colors[index] = {
-          saturation: Math.random() * 0.5,
+          hue,
+          saturation: this.getSaturation(),
           brightness: 1,
           kelvin: 9000
         }
       })
     })
     this.colors = colors
+  }
+
+  getSaturation() {
+    return 0.125 + Math.random() * 0.375
   }
 
   async clearTiles(duration = 0) {
