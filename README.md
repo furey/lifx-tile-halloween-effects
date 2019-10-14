@@ -36,7 +36,7 @@ $ cd lifx-tile-halloween-effects
 Install the repository dependencies:
 
 ```console
-$ npm install
+$ npm ci
 ```
 
 ## Usage
