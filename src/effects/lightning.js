@@ -100,9 +100,9 @@ module.exports = class {
         if (col !== '⚡️') return
         let index = (Math.round(y) * this.bounds.width) + x
         colors[index] = {
-          saturation: 0,
+          saturation: Math.random() * 0.5,
           brightness: 1,
-          kelvin: Math.random() < 0.25 ? 6000 : 9000
+          kelvin: 9000
         }
       })
     })
